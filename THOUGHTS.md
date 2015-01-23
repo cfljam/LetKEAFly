@@ -32,7 +32,7 @@
     * eg. say we made genotype calls using a piece of code then reference the GitHub commit hash
     * ..or we could maintain a big data source table with several flavours in Postgres
     * Could ensure uptake because..
-      * O provenance means NO databasing
+      * NO provenance means NO databasing
       * Then analysts could have policy of only analysing databased genotype data
 * Possible that Kea processes could be used for some of this
 * Will need to work out how to assign KEA ids to existing DNA samples i.e. assign a special provenance type -NOT prepped from a KEA tissue sample
