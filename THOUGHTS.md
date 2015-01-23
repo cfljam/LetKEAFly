@@ -21,6 +21,10 @@
   * A/C
   * IUPAC 
   * Dosage for polyploids
+  * Phasing
+  * haplotypes 
+  	-could we store haplotype sequences in a big hash store?
+
 * DNA provenance is KEA domain, what about genotype provenance? NGS requestor provides scope for experiment meta-data storage but hardly used. Really need to know how raw data and then genotype calls are made.
   * Thoughts on this
     * experiments, sensors and DNA samples are all data sources 
